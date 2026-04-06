@@ -3,9 +3,9 @@ export const siteMeta = {
   tagline: "Modern Digital Solutions for Growing Businesses",
   description:
     "We build modern websites, apps, and custom software for growing businesses.",
-  email: "hello@pixerntechnology.com",
-  phone: "+91 90000 00000",
-  whatsapp: "+91 90000 00000"
+  email: "devendracursor@gmail.com",
+  phone: "+91 7241141238",
+  whatsapp: "+91 7241141238"
 };
 
 export const navLinks = [
